@@ -1,9 +1,9 @@
-package com.example.solidprinciples.solid;
+package com.example.solidprinciples.openClosePrincipleViolation;
 
 import java.util.List;
 
 public class AreaCalculator {
-    public int sum(List<Object> shapes) {
+    public double getSumOfAreas(List<Object> shapes) {
         int sum = 0;
         for (Object shape : shapes) {
             if (shape instanceof Square) {

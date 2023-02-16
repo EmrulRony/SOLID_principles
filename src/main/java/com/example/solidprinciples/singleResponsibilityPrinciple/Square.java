@@ -1,4 +1,4 @@
-package com.example.solidprinciples.solid;
+package com.example.solidprinciples.singleResponsibilityPrinciple;
 
 public class Square {
     private final double length;

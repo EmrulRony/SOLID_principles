@@ -1,4 +1,4 @@
-package com.example.solidprinciples.solid;
+package com.example.solidprinciples.openClosePrincipleViolation;
 
 public class Circle {
     private final double radius;
